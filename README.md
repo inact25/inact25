@@ -40,14 +40,14 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Angga's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=arsentieva&show_icons=true&hide_border=true" />
+  <img align="left" alt="Angga's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=inact25&show_icons=true&hide_border=true" />
 
 </details>
 
 <details>
   <summary>:zap: Most Used Languages</summary>
 
-<img align="left" alt="Angga's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arsentieva" />
+<img align="left" alt="Angga's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inact25" />
 
 </details>
 
