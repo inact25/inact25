@@ -10,8 +10,8 @@
 
 ### Talk with me, I am kinda awesome:
 
-[<img align="left" alt="Angga Adji Surya | LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />][linkedin]
-[<img align="left" alt="Angga Adji Surya | Email" width="22px" src="https://image.flaticon.com/icons/png/512/281/281769.png" />][mail]
+[<img align="left" alt="Angga Adji Surya | LinkedIn" width="22px" src="https://th.bing.com/th/id/OIP.YO7Fxc7mQc7rx-7pDzclCQHaHa?pid=ImgDet&rs=1" />][linkedin]
+[<img align="left" alt="Angga Adji Surya | Email" width="22px" src="https://www.freepnglogos.com/uploads/gmail-email-logo-png-16.png" />][mail]
 [<img align="left" alt="Angga Adji Surya | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" />][instagram]
 
 <br />
