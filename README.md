@@ -40,16 +40,17 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Angga's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=inact25&show_icons=true&hide_border=true" />
+ ###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=inact25&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=inact25&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
 
 </details>
 
-<details>
-  <summary>:zap: Most Used Languages</summary>
-
-<img align="left" alt="Angga's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inact25" />
-
-</details>
 
 [website]: https://javapixa.com/
 
