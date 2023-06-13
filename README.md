@@ -27,7 +27,7 @@
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][portfolio]
 [<img align="left" alt="React" width="26px" src="https://camo.githubusercontent.com/9fefe4c2e03688a8d3987d9eff864a13c79c5b8fe067adfaaf3e5ab7c90eee2b/68747470733a2f2f692e696d6775722e636f6d2f764a66496949642e706e67" />][portfolio]
 [<img align="left" alt="React" width="26px" src="https://cdn4.iconfinder.com/data/icons/google-i-o-2016/512/google_firebase-2-512.png" />][portfolio]
-[<img align="left" alt="React" width="26px" src="https://image.flaticon.com/icons/png/512/873/873120.png" />][portfolio]
+[<img align="left" alt="NEXTJS" width="26px" src="https://seeklogo.com/images/N/next-js-icon-logo-EE302D5DBD-seeklogo.com.png" />][portfolio]
 [<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][portfolio]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][portfolio]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][portfolio]
