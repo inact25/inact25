@@ -3,7 +3,7 @@
 ## I'm a Front End Developer!!
 
 - ✍ You can find my projects here [portfolio]
-- 🌱 I’m currently learning ReactJs and Golang
+- 🌱 I’m currently on ReactJs and Golang
 - 👯 I’m looking to collaborate on open source
 - 💬 Ask me about ... Anything
 - ⚡ Fun fact: Sometimes, I squat on the chair when I code
